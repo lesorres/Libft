@@ -1,3 +1,3 @@
 # Libft
 
-# 42 school project
+42 school project
